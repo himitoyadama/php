@@ -1,5 +1,8 @@
 # Golang_study
 
+Go言語を使ったWEBアプリケーション作成の環境構築手順
+https://qiita.com/kubota_ndatacom/items/84e98d84e5859d602102
+
 HTMLテンプレート
 https://www.twihike.dev/docs/golang-web/templates
 
