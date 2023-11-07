@@ -1,5 +1,8 @@
 # Golang_study
 
+Goの標準ライブラリだけでWebサーバを作る
+https://qiita.com/massaaaaan/items/1b4b494b78cc77c69ec8
+
 Go言語を使ったWEBアプリケーション作成の環境構築手順
 https://qiita.com/kubota_ndatacom/items/84e98d84e5859d602102
 
