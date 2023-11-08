@@ -1,5 +1,8 @@
 # Golang_study
 
+Golang で import cycle not allowed に引っかかった人へ
+https://qiita.com/ko-watanabe/items/0141fa20da9f6f30b754
+
 Goの標準ライブラリだけでWebサーバを作る
 https://qiita.com/massaaaaan/items/1b4b494b78cc77c69ec8
 
