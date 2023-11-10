@@ -1,5 +1,7 @@
 # Golang_study
 
+https://github.com/restuwahyu13/golang-pos
+
 Golang で import cycle not allowed に引っかかった人へ
 https://qiita.com/ko-watanabe/items/0141fa20da9f6f30b754
 
