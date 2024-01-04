@@ -1,4 +1,4 @@
-# Golang_study
+# https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
 
 https://github.com/restuwahyu13/golang-pos
 
