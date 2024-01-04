@@ -1,6 +1,7 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
-
-https://github.com/restuwahyu13/golang-pos
+■rand() 関数
+乱数を生成する関数です。
+https://www.php.net/manual/ja/function.rand.php
 
 Golang で import cycle not allowed に引っかかった人へ
 https://qiita.com/ko-watanabe/items/0141fa20da9f6f30b754
