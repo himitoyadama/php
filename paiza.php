@@ -4,6 +4,7 @@ $output = "Mother Fucker!";
 echo $output;
 ?>
 
+//echoするときは=は書かない❤
 <?php
 $output1 = "Hello";
 $output2 = "Fuck!";
