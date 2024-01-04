@@ -9,3 +9,10 @@ $output1 = "Hello";
 $output2 = "Fuck!";
 echo $output1.$output2;
 ?>
+
+//半角スペースを入れる
+<?php
+$output1 = "Hello";
+$output2 = "Fuck!";
+echo $output1." ".$output2;
+?>
