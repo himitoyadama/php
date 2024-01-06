@@ -18,3 +18,9 @@ $output1 = "Hello";
 $output2 = "Fuck!";
 echo $output1." ".$output2;
 ?>
+
+＃06:サイコロを作る
+//rand関数
+<?php
+echo rand(1,6);
+?>
