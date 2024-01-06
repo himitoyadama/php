@@ -24,3 +24,8 @@ echo $output1." ".$output2;
 <?php
 echo rand(1,6);
 ?>
+<?php
+// Here your code !
+$rand = rand(1,6);
+echo "saikoro_no_atai_ha".$rand."desu";
+?>
