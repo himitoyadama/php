@@ -32,3 +32,14 @@ echo rand(1,6);
 $rand = rand(1,6);
 echo "saikoro_no_atai_ha".$rand."desu";
 ?>
+
+＃07:演算子で計算してみよう
+<?php
+// 演算子
+// 代入演算子
+$a = "text";
+$b = 1;
+
+// 代数演算子 + - * / %
+echo 6 * 3;
+?>
