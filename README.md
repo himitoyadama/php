@@ -1,4 +1,7 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
+
+ビルトインウェブサーバー(簡易サーバー)の実行 https://find-a.jp/seotimes/php-web-server/
+
 【PHP入門】date関数の基本的な使い方
 https://www.sejuku.net/blog/21821
 
