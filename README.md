@@ -1,11 +1,13 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
+PHP初めての「Class」基礎02【 アクセス修飾子・継承とは？ 】（初級・中級者向け）
+https://www.youtube.com/watch?v=tA5IOC2ZIkw
+
 【PHP 入門】Class の基本を 24分でマスターする方法！【クラス・プロパティ・メソッド】
 https://www.youtube.com/watch?v=wi0BAL2Pazg
 
 【初心者向け】10分で学べる！PHP入門編 #01 文法ルールの基本【Webデザイン・プログラミング】
 https://m.youtube.com/watch?v=QD1U4lTb-8c
 
-ビルトインウェブサーバー(簡易サーバー)の実行 https://find-a.jp/seotimes/php-web-server/
 
 【PHP入門】date関数の基本的な使い方
 https://www.sejuku.net/blog/21821
