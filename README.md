@@ -1,4 +1,7 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
+【PHP 入門】Class の基本を 24分でマスターする方法！【クラス・プロパティ・メソッド】
+https://www.youtube.com/watch?v=wi0BAL2Pazg
+
 【初心者向け】10分で学べる！PHP入門編 #01 文法ルールの基本【Webデザイン・プログラミング】
 https://m.youtube.com/watch?v=QD1U4lTb-8c
 
