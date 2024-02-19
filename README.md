@@ -1,4 +1,7 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
+PHP 初めての「Class」基礎03 【 Staticとは？ 】（初級・中級者向け）
+https://www.youtube.com/watch?v=l8JAJ9UH2Jk
+
 PHP初めての「Class」基礎02【 アクセス修飾子・継承とは？ 】（初級・中級者向け）
 https://www.youtube.com/watch?v=tA5IOC2ZIkw
 
