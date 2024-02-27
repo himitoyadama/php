@@ -1,4 +1,7 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
+【初心者向け】10分で学べる！PHP入門編 #01 文法ルールの基本【Webデザイン・プログラミング】
+https://m.youtube.com/watch?v=QD1U4lTb-8c
+
 PHP 初めての「Class」基礎03 【 Staticとは？ 】（初級・中級者向け）
 https://www.youtube.com/watch?v=l8JAJ9UH2Jk
 
