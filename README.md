@@ -1,4 +1,8 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
+
+【初心者向け】10分で学べる！PHP入門編 #02 変数について（前編）【Webデザイン・プログラミング】
+https://m.youtube.com/watch?v=WJxhnO7PkZo
+
 【初心者向け】10分で学べる！PHP入門編 #01 文法ルールの基本【Webデザイン・プログラミング】
 https://m.youtube.com/watch?v=QD1U4lTb-8c
 
