@@ -1,5 +1,8 @@
 # https://paiza.io/projects/3s3xCcqNt3Lk0AiPlyZ-wg
 
+【初心者向け】10分で学べる！PHP入門編 #05 連想配列って何？【Webデザイン・プログラミング】
+https://m.youtube.com/watch?v=AQ16xffZhoM
+
 【初心者向け】10分で学べる！PHP入門編 #04 配列について【Webデザイン・プログラミング】
 https://m.youtube.com/watch?v=jbk9NTzkfDA
 
